@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='1 - Clock'/>
+        <page name='2 - SimpleClock'/>
+        <page name='3 - InitializerClock'/>
+        <page name='4 - Clockzeption'/>
+        <page name='5 - Registering'/>
+        <page name='6 - Tags'/>
+        <page name='7 - AutoWiring'/>
+        <page name='8 - Registering in Closure'/>
+        <page name='9 - Registering existing Objects'/>
+        <page name='10 - Registering primitive Types'/>
+        <page name='11 - Scopes'/>
+        <page name='12 - Collaborating'/>
+        <page name='Untitled Page'/>
+    </pages>
+</playground>
